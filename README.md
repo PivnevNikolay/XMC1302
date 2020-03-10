@@ -19,6 +19,8 @@
 + Pseudo Random Number Generator
 + PG-TSSOP-38
 
+![alt-текст](https://github.com/PivnevNikolay/XMC1302/blob/master/FOTO/001.jpg "XMC1302")
+
 ### IDE
 [Embedded Studio for ARM](https://www.segger.com/products/development-tools/embedded-studio/)
 SEGGER Embedded Studio - это мощная среда разработки C / C ++ (интегрированная среда разработки) для микроконтроллеров. Он специально разработан для того, чтобы предоставить пользователям все необходимое для профессионального программирования и разработки на встроенном С.
